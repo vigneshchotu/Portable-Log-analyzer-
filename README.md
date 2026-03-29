@@ -1,5 +1,7 @@
 # Portable-Log-analyzer-
 Portable Log Analyzer is a lightweight browser-based tool built using React and Vite to upload, search, filter, and analyze log files locally. It highlights errors and warnings, supports fast troubleshooting, and enables basic security investigation without server-side processing.
+
+ link of the  website prototype 🔗 : https://spontaneous-faloodeh-aeb920.netlify.app/
 # 🚀 Portable Log Analyzer
 
 **Portable Log Analyzer** is a lightweight browser-based web application built using **React, Vite, and Tailwind CSS**.  
